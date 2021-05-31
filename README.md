@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Objectives
+1. Gain more experience working with GitHub repos
+2. Gain experience working with GitHub Pages
+3. Create an initial CIT Minor portfolio for your labs and projects
 
-You can use the [editor on GitHub](https://github.com/pozawa1/cit281-p7/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Technologies Used
+- GitHub
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Part 1
+Complete [Lab 8](https://pozawa1.github.io/cit281-lab8/)
 
-### Markdown
+# Part 2
+Complete [Lab 9](https://pozawa1.github.io/cit281-lab9/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Part 3
+Create the main GitHub page.
 
-```markdown
-Syntax highlighted code block
+# Part 4
+Create Lab and Project repos.
 
-# Header 1
-## Header 2
-### Header 3
+# Part 5
+Enable GitHub Page for each lab and project.
 
-- Bulleted
-- List
+# Part 6
+Add lab and project code to the corresponding repos. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pozawa1/cit281-p7/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Part 7
+Document your entry GitHub Page URL.
